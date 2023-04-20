@@ -1,0 +1,10 @@
+# References {.unnumbered}
+
+[Randi Bolt](https://www.rbolt.me/)
+
+[ChatGPT](https://chat.openai.com/)
+
+[starryai](https://starryai.com/)
+
+::: {#refs}
+:::
